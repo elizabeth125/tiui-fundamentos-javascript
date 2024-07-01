@@ -7,12 +7,12 @@ Ciudad: Xalapa
 Pais: México
 
 # Retos:
-  - [ x] Primer problema
-  - [ ] Segundo problema
-  - [ ] Tercer problema
-  - [ ] Cuarto problema
-  - [ ] Quinto problema
-  - [ ] Opcional
+  - [ x ] Primer problema
+  - [ x ] Segundo problema
+  - [ x ] Tercer problema
+  - [ x ] Cuarto problema
+  - [ x ] Quinto problema
+  - [ x ] Opcional
 
 ## ¿Como explicarias el proposito de este proyecto? (opcional)
 ### Propósito del Proyecto
